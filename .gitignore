@@ -43,4 +43,8 @@ local.properties
 buck-out/
 \.buckd/
 *.keystore
-      
+      android/.project
+android/.settings/org.eclipse.buildship.core.prefs
+android/.project
+examples/SimpleExample/android/.project
+examples/SimpleExample/android/.settings/org.eclipse.buildship.core.prefs
