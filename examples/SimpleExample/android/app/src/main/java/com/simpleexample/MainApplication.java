@@ -10,7 +10,7 @@ import com.facebook.soloader.SoLoader;
 import java.lang.reflect.InvocationTargetException;
 import java.util.List;
 
-import com.reactlibrary.RNThreadPackage;
+import com.reactlibrary.rnthreads.RNThreadPackage;
 
 public class MainApplication extends Application implements ReactApplication {
 
